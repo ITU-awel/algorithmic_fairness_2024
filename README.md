@@ -28,4 +28,4 @@ ALFAE course is an overview on the topics of bias and fairness in data, models, 
 * [Vedran Sekara](mailto:vsek@itu.dk) (Course manager & Teacher)
 * [Martin Aumüller](mailto:maau@itu.dk) (Teacher)
 * [Pawel Grabarczyk](mailto:pawg@itu.dk) (Teacher)
-* [Anders Weile Larsen](mailto:camw@dtu.dk) (Teaching Assistant)
+* [Anders Weile Larsen](mailto:awel@itu.dk) (Teaching Assistant)
